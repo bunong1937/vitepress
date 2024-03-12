@@ -1,0 +1,30 @@
+---
+profileName: dissociation
+postId: '211'
+categories:
+  - 7
+---
+‌‌‌‌　　英：Freud, return to; 法：Freud, retour a
+
+
+‌‌‌‌　　对于拉康的全部著作，唯有在精神分析的创始人西格蒙德·弗洛伊德 (1856一1939)的智识与理论遗产的语境之下来理解，才是可能的。拉康最初是在国际精神分析协会 (NTERNATIONALPSYCHO-ANALYTICAL ASSOCIATION, 简称PA)中受训成为一名精神分析家的，该组织由弗洛伊德所创建，也自居是弗洛伊德遗产的唯一合法继承人。然而，对于国际精神分析协会中大多数分析家解释弗洛伊德的方式，拉康却逐渐开始展开了一种激进的批判。在1953年被逐出国际精神分析协会之后，拉康进一步展开了他的争辩，声称弗洛伊德的那些根本性洞见遭到了国际精神分析协会内部的三个主要精神分析学派的普遍背离，即自我心理学 (EGO-PSYCHOLOGY)、克莱因派精神分析（KLEINIAN PSYCHOANALYSIS), 以及对象关系理论（OBJECT-RELATIONS THEORY)。为了纠正这一状况，拉康便提议倡导一种“回到弗洛伊德”的做法，其意义既在于重新关注弗洛伊德本人的现行文本，也在于重新返回遭国际精神分析协会所背离的弗洛伊德著作的本质。拉康以德语原文来阅读弗洛伊德，从而使他发现了一些被蹩脚的译文所模糊并且被其他的批评家所忽视的成分。因而，拉康的大部分著作便致力于就弗洛伊德的特定著作进行详细的文本评论，同时也频繁参照那些其思想为拉康所驳斥的其他分析家的著作。因此，要理解拉康的著作，就有必要对弗洛伊德的思想有一个细致的了解，同时也必须对这些思想在为拉康所批判的其他分析家 (“后弗洛伊德主义者们”)那里获得发展与修改的方式有所把握。这些思想即拉康针对其发展出他自己的“回到弗洛伊德”的背景。
+
+	这样一种返回【即回到弗洛伊德】对我而言所涉及的并非是一种压抑物的返回，而是要在自弗洛伊德逝世以后的精神分析运动的历史中举出这一时期所构成的对立面，以表明精神分析不是什么，并且与你们一道寻求方法以重新光复那个即便在其偏离中也不断支撑着精神分析的东西…
+
+	(E, 116)
+
+‌‌‌‌　　然而，拉康的著作本身却质疑了在“回到弗洛伊德”这一表达中所隐含的那种返回“正统”的叙事，因为拉康阅读弗洛伊德的方式以及他的呈现风格都是如此具有独创性，以至于它们似乎与他宣称自己只是一个评论者的谦虚言论并不相符。再者，虽然拉康确实返回到了弗洛伊德本人的现行文本，但是他也确实只回到了弗洛伊德概念遗产中的某些特定面向，从而给一些特殊的概念赋予了特权而牺牲了一些其他的概念。于是，我们便可以说，相比于那些因背叛弗洛伊德的要旨而为他所批判的后弗洛伊德主义者们，拉康也并不更加“忠实”于弗洛伊德的著作：如同他们一样，拉康也选择并发展了弗洛伊德著作中的某些主题，而忽视或重新解释了其他的主题。因此，拉康派精神分析便连同自我心理学、克莱因派精神分析与对象关系理论一起，可以被描述为一种“后弗洛伊德主义”形式的精神分析。
+
+‌‌‌‌　　然而，这却并非是拉康看待自己著作的方式。拉康指出，在弗洛伊德的文本之中有着某种更深的逻辑在运作，正是这一逻辑给那些文本赋予了某种一致性，尽管它们看似在表面上具有一些矛盾。拉康宣称，他对弗洛伊德的阅读，而且也唯有他对弗洛伊德的阅读，才带出了此种逻辑，同时他还向我们表明，弗洛伊德著作中的“那些不同的阶段与方向上的改变…皆受制于弗洛伊德将它维持在其最初严格性上的那种一贯有效的关切”(E, 116)。换句话说，虽然拉康对弗洛伊德的阅读也可能像其他人一样是有失偏颇的，因为从某种意义上说，它也只是偏重于弗洛伊德著作中的某些特殊方面，然而在拉康看来，这却并非是把对于弗洛伊德的所有解释皆看作同样有效的正当理由。因而，拉康对于忠诚的宣告以及对于背叛的谴责，便不能被看作一种纯粹修辞上的策略。当然，它们确实具有某种修辞性一政治性的功能，因为把自己呈现为比任何其他人“更弗洛伊德”，便使得拉康得以挑战国际精神分析协会在1950年代仍然享有的对于弗洛伊德遗产的有效垄断。然而，拉康的这些声明却也是一种明确的主张，他宣称自己梳理出了任何其他人先前都未曾觉察到的一种存在于弗洛伊德作品中的一致性逻辑。
+
+
+‌‌‌‌　　(Freud, retour a) The whole of Lacan's work can only be understood within the contextof the intellectual and theoretical legacy of Sigmund Freud (1856-1939), the founder ofpsychoanalysis. Lacan first trained as a psychoanalyst within the INTERNATIONALPSYCHO-ANALYTICAL ASSOCIATION (IPA), the organisation founded by Freudwhich presented itself as the sole legitimate heir to the Freudian legacy. However, Lacangradually began to develop a radical critique of the way that most analysts in the IPA hadinterpreted Freud. After being expelled from the IPA in 1953, Lacan developed hispolemic further, arguing that Freud's radical insights had been universally betrayed bythe three major schools of psychoanalysis within the IPA: EGO-PSYCHOLOGY, KLEINIAN PSYCHOANALYSIS, and OBJECT-RELATIONS THEORY. To remedythis situation, Lacan proposed to lead a 'return to Freud', both in the sense of a renewedattention to the actual texts of Freud himself, and a return to the essence of Freud's workwhich had been betrayed by the IPA. Reading Freud in the original German allowed Lacan to discover elements which had been obscured by poor translation and ignored byother commentators. Thus much of Lacan's work is taken up with detailed textualcommentaries on specific works by Freud, and by numerous references to the work ofother analysts whose ideas Lacan refutes. To understand Lacan's work, therefore, it isnecessary both to have a detailed understanding of Freud's ideas and also a grasp of theway these ideas were developed and modified by the other analysts (the 'post-Freudians') whom Lacan criticises. These ideas are the background against which Lacan develops hisown 'return to Freud'.
+
+	What such a retum [to Freud]involves for me is not a retum of therepressed, but rather taking the antithesis constituted by the phase in thehistory of the psychoanalytic movement since the death of Freud, showingwhat psychoanalysis is not, and seeking with you the means ofrevitalizing that which has continued to sustain it, even in deviation...
+
+	(E, 116)
+
+‌‌‌‌　　However, Lacan's work itself puts in question the narrative of a return to orthodoxyimplicit in the expression 'return to Freud', for Lacan's way of reading Freud and hisstyle of presentation are so original that they seem to belie his modest claims to be a merecommentator. Furthermore, while it is true that Lacan returns to the actual texts of Freud himself, it is also true that Lacan returns to specific aspects of the Freudian conceptuallegacy, privileging particular concepts at the expense of others. It might be argued, then, that Lacan is no more 'faithful'to Freud's work than the post-Freudians whom hecriticises for having betrayed Freud's message; like them, Lacan selects and developscertain themes in Freud's work and neglects or reinterprets others. Lacanianpsychoanalysis might therefore be described as a post-Freudian'form of psychoanalysis, along with ego-psychology, Kleinian psychoanalysis and object-relations theory.
+
+‌‌‌‌　　However, this is not the way Lacan sees his work. Lacan argues that there is a deeperlogic at work in Freud's texts, a logic which endows those texts with a consistencydespite the apparent contradictions. Lacan claims that his reading of Freud, and his alone, brings out this logic, and shows us that 'the different stages and changes in direction'in Freud's work 'are govemned by Freud's inflexibly effective concern to maintain it in itsprimary rigour' (E, 116). In other words, while Lacan's reading of Freud may be aspartial as any other in the sense that it privileges particular aspects of Freud's work, thisis not, in Lacan's view, justification for regarding all interpretations of Freud as equallyvalid. Thus Lacan's declarations of loyalty and accusations of betrayal cannot be seen asa mere rhetorical strategy. Certainly, they do have a rhetorico-political function, in thatpresenting himself as 'more Freudian'than anyone else allowed Lacan to challenge theeffective monopoly on the Freudian legacy that the IPA still enjoyed in the 1950s. However, Lacan's statements are also an explicit claim to have teased out a coherentlogic in Freud's writings that no one else had perceived before.
+

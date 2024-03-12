@@ -1,0 +1,18 @@
+---
+profileName: dissociation
+postId: '183'
+categories:
+  - 7
+---
+‌‌‌‌　　英：ego-psychology; 法：psychologie du moi
+
+
+‌‌‌‌　　自我心理学自其在1930年代的发展以来，便一直是在国际精神分析协会 (NTERNATIONAL PSYCHO-ANALYTICAL ASSOCIATION, 简称PA)中居于统治地位的精神分析学派。该学派主要吸收了弗洛伊德曾在《自我与它我》(Freud, 1923b)一文中首度提出的精神结构模型。此一模型包含三个机构 (agencies): 它我、自我 (EGO)与超我。因为自我在本能它我 (instinctual id)、道德超我 (moralistic superego)以及外部现实 (external reality)的冲突要求之间扮演着一个居中调停的关键角色，所以更多的关注便开始投向了它的发展与结构。安娜·弗洛伊德的《自我与防御机制》（The Ego and the Mechanisms of Defence, 1936)一书便是几乎完全聚焦于自我的最早几部著作之一，而且此种趋势在海因茨·哈特曼（Heinz Hartmann)的《自我心理学与适应问题》（Ego Psychology and the Problem of Adaptation, 1939)中变得稳固确立了下来，该书如今被看作自我心理学的基础文本。自我心理学是由在1930年代末移民美国的一批奥地利精神分析家们引入美国的，而自1950年代初以来，它便成为不只在美国而且在整个国际精神分析协会中居于统治地位的精神分析学派。这一统治地位使自我心理学能够宣称自己是弗洛伊德精神分析在其最纯粹形式上的继承人，然而在它的某些教条与弗洛伊德的著作之间其实却存在着一些根本性的差异。
+
+‌‌‌‌　　在拉康的大部分执业生涯里，他都在驳斥自我心理学自诩是弗洛伊德遗产的真正继承人的主张，即便拉康的分析家鲁道夫·勒文斯坦 (Rudolph Loewenstein)也是自我心理学的奠基人之一。在拉康于1953年被开除出国际精神分析协会之后，他便自由地公开发表自己针对自我心理学的批评，而在自己余下的生命里，他更是展开了一种持续且有力的批判。倘若不参照于拉康与其形成对立的自我心理学思想，拉康的大多数理论便无法得到恰当的理解。拉康挑战了自我心理学的所有核心概念，诸如适应 (ADAPTATION)与自主的自我 (AUTONOMOUS EGO)这类的概念。他对自我心理学的批判，往往都会跟他对这一特殊思想学派所主导的国际精神分析协会的批判纠葛在一起。拉康提出自我心理学与国际精神分析协会两者皆是真正的精神分析的“对立面”(E, 116), 他还指出此两者皆无可挽回地受到美国文化败坏（见：c因素[FACTOR C])。拉康的强有力批评意味着现在很少有人会不加批判地接受自我心理学将其自身等同于“经典精神分析”的那些主张。
+
+
+‌‌‌‌　　(psychologic du moi) Ego-psychology has been, since its development in the 1930s, thedominant school of psychoanalysis in the INTERNATIONAL PSYCHO-ANALYTICALASSOCATION (IPA). It draws mainly on Freud's structural model of the psyche, whichwas first put forward in The Ego and the ld (1923b). This model comprises threeagencies: the id, the EGO and the superego. Since the ego plays a crucial roleinmediating between the conflicting demands of the instinctual id, the moralistic superegoand extemal reality, more attention began to be paid to its development and structure. Anna Freud's book The Ego and the Mechanisms of Defence (1936) was one of the firstworks to focus almost entirely on the ego, and the trend became firmly established in Heinz Hartmann's Ego Psychology and the Problem of Adaptation (1939), which is nowregarded as the foundational text of ego-psychology. Ego-psychology was taken to the United States by the Austrian analysts who emigrated there in the late 1930s, and sincethe early 1950s it has been the dominant school of psychoanalysis not only in the United States but also in the whole of the IPA. This position of dominance has enabled ego-psychology to present itself as the inheritor of Freudian psychoanalysis in its purist form, when in fact there are radical differences between some of its tenets and Freud's work.
+
+‌‌‌‌　　For much of his professional life, Lacan disputed ego-psychology's claim to be thetrue heir to the Freudian legacy, even though Lacan's analyst, Rudolph Loewenstein, wasone of ego-psychology's founding fathers. After Lacan was expelled from the IPA in1953, he was free to voice his criticisms ofego-psychology openly, and during the rest ofhis life he developed a sustained and powerful critique. Much of Lacanian theory cannotbe properly understood without reference to the ideas of ego-psychology with which Lacan contrasts it.Lacan challenged all the central concepts of ego-psychology,such asthe concepts of ADAPTATION and the AUTONOMOUS EGO.His criticisms of ego-psychology are often intertwined with his criticisms of the IPA which was dominated bythis particular school of thought.Lacan presents both ego-psychology and the IPA as the'antithesis'of true psychoanalysis (E,116)and argues that both were irremediablycorrupted by the culture of the United States (see FACTOR C).Lacan's powerful critiquehas meant that few people now accept uncritically the claims of ego-psychology toidentify itself as 'classical psychoanalysis'.
+

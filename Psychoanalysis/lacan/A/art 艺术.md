@@ -1,0 +1,42 @@
+---
+profileName: dissociation
+postId: '107'
+categories:
+  - 7
+---
+‌‌‌‌　　英：art;法：art
+
+
+‌‌‌‌　　弗洛伊德曾把艺术评价为人类社会的众多伟大文化建制之一, 而且他还专门写了很多文章，用于探讨一般而言的艺术创作过程以及特殊而言的某些艺术作品。他通过参照升华 (SUBLIMAIION)的概念来解释艺术创作，性欲力比多在此过程中会被重新导向一些非性欲化的目标。弗洛伊德同样写了很多文章专门来分析特定的艺术作品，尤其是文学作品，他声称文学作品能够在两个主要方面有助于精神分析。首先，这些作品往往以诗歌的形式表达了有关精神的某些真理，这意味着创造性作家们可以凭直觉而直接获悉精神分析家们后来只能通过一些较为费力的手段所发现的东西。其次，弗洛伊德同样认为，对于文学作品的一种严密的精神分析式解读可以揭示出作者精神中的某些要素。尽管弗洛伊德有关特定艺术作品的大多数文章皆涉及的是文学作品，然而他并未完全忽视其他的艺术形式。例如，他专门写了一篇文章来讨论米开朗基罗的摩西塑像 (Freud, 1914b).
+
+‌‌‌‌　　拉康的著作中同样充斥着对于特定艺术作品的讨论。如同弗洛伊德一样，他的大部分精力也主要用于关注各种体裁的文学作品：散文（例如：关于埃德加·爱伦·坡D的《失窃的信》[The Purloined Letter]的讨论，见：S2, ch. I6)、戏剧 (例如：关于莎士比亚的《哈姆雷特》的讨论，见：Lacan, 1958-9, 以及关于索福克勒斯2的《安提戈涅》[Antigon]的讨论，见：S7, chs19-21)以及诗歌（例如：关于维克多·雨果3的《沉睡的布兹》[Booz Endormi]的讨论，见：S3,218-25: S4,377-8: E, 156-8: S8,158-9)。然而，拉康还讨论了一些视觉艺术，他将其1964年研讨班中的几次讲座专门用于讨论绘画，特别是畸像艺术 (anamorphotic art)(S11, chs7-9, 他在那里讨论了荷尔拜因的《大使像》[The Ambassadors], 亦见：S7,139-42).
+
+‌‌‌‌　　不过，弗洛伊德与拉康探讨艺术作品的方式还是存在着一些重要的差异。虽然拉康确实谈到了升华，但是不同于弗洛伊德的是，他并不相信让精神分析家们基于对某一艺术作品的考察去谈论艺术家的心理是可能的，抑或甚至是可欲望的 (参见他有关“心理传记”的评论：Ec, 7401)。拉康说到，仅仅因为精神分析理论中的最根本情结（俄狄浦斯）乃借鉴自一部文学作品，并不意味着精神分析可以说明任何有关索福克勒斯本人的问题（Lacan, 1971:3)
+
+‌‌‌‌　　拉康把艺术家排除在他对艺术作品的讨论之外，这意味着他对文学作品的那些解读并不关涉针对作者意图的重构。在他对于作者意图问题的悬搁之中，拉康不仅是在表示他同结构主义运动的立场一致 (毕竟，早在结构主义者们登台很久以前，新批评就已经把作者的意图置入了括号)，而且更确切地说，也是在阐明分析家在倾听与解释分析者的话语之时所应当行进的道路。换句话说，分析家必须把分析者的话语当作一则文本来对待：
+
+	你必须从文本开始，一如弗洛伊德所做的与他所建议的那样，开始把文本当作《圣经》来看待。作者，亦即经文的抄写者，仅仅是一个抄写匠，而且他是居于第二位的…同样，就我们的病人而论，也请对文本而非对作者的心理给予更多的关注一我的教学的全部定向皆在于此。(S2,153)
+
+‌‌‌‌　　因而，拉康有关文学文本的这些讨论，就其本身而言并非旨在文学批评方面的运用，而是旨在给他的听众示范一种观念，即如何去阅读他们病人的无意识。此种阅读方法类似于形式主义与结构主义所运用的方法：所指遭到忽视以支持能指，内容被置人括号以支持形式结构 (尽管雅克·德里达业已指出，拉康其实并未遵循他自己的方法，见：Derrida, 1975).
+
+‌‌‌‌　　除了充当拉康建议分析家们在阅读其病人的话语时所遵循的一种阅读方法的典范之外，拉康有关文学文本的讨论也同样旨在把某些充当隐喻的元素提取出来，以阐明他的某些最重要的思想。例如，在他有关爱伦·坡的《失窃的信》的解读中，拉康便指出这封循环的信函/字符 (LETTER)是对于能指的决定性力量的一则隐喻。
+
+‌‌‌‌　　所谓“精神分析式文学批评”的一个新的分支，现在自称受到了拉康着手分析文学文本的方法所启发(例如：Muller and Richardson,1988以及Vright,1984:处理拉康与文化理论的其他著作有：Davis,1983: Felman,1987: MacCannell,1986)。然而，这样一些计划虽然就其本身而言是非常有趣的，但是它们通常并非是以跟拉康同样的方式来着手文学分析的。也就是说，虽然精神分析式文学批评旨在对其所研究的文本发表看法，但是拉康方法的两个面向(即阐明分析性解释的模式，以及阐明精神分析的概念)所涉及的并非是就文本本身发表看法，而仅仅是运用文本来提出有关精神分析的看法。这或许就是拉康着手分析艺术作品的方法与弗洛伊德的方法之间最重要的差异所在。弗洛伊德的某些著作往往被看作隐含有“精神分析是某种元话语(mcta~discourse)或主叙事(master narrative)”的观念，即它提供了一把普遍解释学的钥匙，能够解开文学作品中迄今尚未得到解答的秘密，然而我们却不可能错误地以为拉康是在做出任何这样的主张。对拉康而言，虽然精神分析或许能够学到一些有关文学的东西，或是运用文学作品来阐明自已的某些方法与概念，但是文学批评是否能够从精神分析中学到什么则是令人怀疑的。因此，拉康便拒绝一种运用精神分析概念的文学批评可以被称作“应用精神分析”(applied psycho-analysis)的观念，因为“在该术语的严格意义上，精神分析仅仅被应用于一种治疗，且因而被应用于一个言说并倾听的主体”(Ec,747)。
+
+
+‌‌‌‌　　(art) Freud valued art as one of humanity's great cultural institutions, and dedicated manypapers to discussing both the process of artistic creation in general and certain works ofart in particular. He explained artistic creation by reference to the concept ofSUBLIMATION, a process in which sexual libido is redirected towards non-sexual aims. Freud also dedicated a number of papers to analysing particular works of art, especiallyworks of literature, which he argued could be useful to psychoanalysis in two main ways. Firstly, these works often express in poetic form truths about the psyche, which impliesthat creative writers can intuit directly the truths which psychoanalysts only discover laterby more laborious means. Secondly, Freud also argued that a close psychoanalyticreading of works of literature could uncover elements of the author's psyche. While mostof Freud's papers on particular works of art concern works of literature, he did notentirely neglect other art forms; for example he devoted one paper to discussing Michelangelo's statue of Moses (Freud, 1914b).
+
+‌‌‌‌　　Lacan's works also abound in discussions of particular works of art. Like Freud, Lacan devotes most of his attention to works of literature of all genres: prose (e.g.thediscussion of The Purloined Letter by Edgar Allan Poe in S2, ch. 16, and Lacan, 1955a), drama (e.g.the discussions of Shakespeare's Hamlet in Lacan, 1958-9, and of Sophocles'Antigone in S7, chs 19-21) and poetry (e.g.the discussion of Booz endormi by Victor Hugo in S3,218-25; S4,377-8; E, 156-8; S8,158-9). However, Lacan also discussesthe visual arts, devoting several lectures in his 1964 seminar to discussing painting, particularly anamorphotic art (S11, chs 7-9, where he discusses Holbein's The Ambassadors; see also S7,139-42).
+
+‌‌‌‌　　There are, nevertheless, significant differences between the ways in which Freud andLacan approach works of art. Though Lacan does speak about sublimation, unlike Freudhe does not believe that it is possible or even desirable for psychoanalysts to say anythingabout the psychology of the artist on the basis of an examination of a work of art (see hiscritical remarks on 'psychobiography'; Ec, 740-1). Just because the most fundamentalcomplex (Oedipus) in psychoanalytic theory is taken from a literary work, Lacan says, does not mean that psychoanalysis has anything to say about Sophocles (Lacan, 1971:3).
+
+‌‌‌‌　　Lacan's exclusion of the artist from his discussions of works of art means that hisreadings of literary texts are not concerned to reconstruct the author's intentions. In hissuspension of the question of authorial intent, Lacan is not merely aligning himself withthe structuralist movement (after all, authorial intent had been bracketed by New Criticism long before the structuralists appeared on the scene), but is rather illustratingthe way in which the analyst should proceed when listening to and interpreting thediscourse of the analysand. The analyst must, in other words, treat the analysand'sdiscourse as a text:
+
+	You must start from the text,start by treating it,as Freud does and as herecommends,as Holy Writ.The author,the scribe,is only a pen-pusher,and he comes second....Similarly,when it comes to our patients,pleasegive more attention to the text than to the psychology of the author-theentire orientation of my teaching is that.(S2, 153)
+
+‌‌‌‌　　Lacan's discussions of literary texts are thus not exercises in literary criticism for its ownsake, but performances designed to give his audience an idea of how they are to read theunconscious of their patients. This method of reading is similar to those employed byfomalism and structuralism; the signified is neglected in favour of the signifier, contentis bracketed in favour of formal structures (although Jacques Derrida has argued that Lacan does not in fact follow his own method; see Derrida, 1975).
+
+‌‌‌‌　　Besides serving as models of a method of reading, which Lacan recommends analyststo follow when reading the discourse of their patients, Lacan's discussions of literarytexts also aim to extract certain elements which serve as metaphors to illustrate some ofhis most important ideas. For example, in his reading of Poe's The Purloined Letter, Lacan points to the circulating LETTER as a metaphor for the determinative power of thesignifier.
+
+‌‌‌‌　　A new branch of so-called 'psychoanalytic literary criticism'now claims to beinspired by Lacan's approach to literary texts (e.g.Muller and Richardson, 1988, and Wright, 1984; other works dealing with Lacan and cultural theory are Davis, 1983; Felman, 1987; MacCannell, 1986). However, while such projects are interesting in theirown right, they do not usually approach literature in the same way as Lacan. That is, while psychoanalytic literary criticism aims to say something about the texts studied, both aspects of Lacan's approach (to illustrate a mode of analytic interpretation, and toillustrate psychoanalytic concepts) are concerned not with saying something about thetexts themselves, but merely with using the texts to say something about psychoanalysis. This is perhaps the most important difference between Lacan's approach to works of artand Freud's.Whereas some of Freud's works are often taken to imply thatpsychoanalysis is a metadiscourse, a master narrative providing a general hermeneutickey that can unlock the hitherto unsolved secrets of literary works, it is impossible to read Lacan as making any such claims. For Lacan, while psychoanalysis might be able to learnsomething about literature, or use literary works to illustrate certain of its methods andconcepts, it is doubtful whether literary criticism can learn anything from psychoanalysis. Hence Lacan rejects the idea that a literary criticism which makes use of psychoanalyticconcepts could be called 'applied psychoanalysis', since '[p]sychoanalysis is onlyapplied, in the proper sense of the term, as a treatment, and thus to a subject who speaksand listens' (Ec, 747).
+

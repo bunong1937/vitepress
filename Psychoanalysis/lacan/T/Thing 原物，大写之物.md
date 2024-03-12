@@ -1,0 +1,24 @@
+---
+profileName: dissociation
+postId: '447'
+categories:
+  - 7
+---
+‌‌‌‌　　英：Thing; 法：chose; 德：das Ding
+
+
+‌‌‌‌　　拉康有关“原物”的讨论构成了1959一1960年度研讨班的核心论题之一，他在那里交替使用法文术语“la chose”与德文术语“das Ding'”。该术语运作于两个主要的语境。
+
+‌‌‌‌　　(I)第一个语境是弗洛伊德在“词表象”(德：Vortvorstellungen)与“物表象”(德：Sachvorstellungen)之间做出的区分。这一区分在弗洛伊德的元心理学作品中尤其突出，他在这些作品中指出，在前意识一意识系统中，此两种表象是结合在一起的，而在无意识系统中，则只有物表象被发现 (Freud, 1915e)。这似乎也就是与拉康同时代的一些人针对拉康有关无意识的语言性本质的理论而提出的异议。拉康则指出在德文中有两个表示“物”的单词，即“原物”(das Ding)与“事物”(die Sache),以此来反驳这样的反对意见 (见：S7,62-3:445)。正是这后一术语常常被弗洛伊德用来指涉无意识中的物表象，而拉康却认为，尽管在某种层面上“词表象”与“物表象”是相互对立的，但是在象征层面上“它们则是相互协调的”。因而，“die Sache'”即某种事物在象征秩序中的表象，而“das Ding”则与之相反，是在其“无言现实”(dumb reality)中的原物 (S7,55), 是在实在界中“超越所指”(beyond-of-the-signified)的原物 (S7,54)。因而，在无意识中所发现的那些物表象，便仍然是语言的现象，而“原物”则与之相反，是完全外在于语言并且外在于无意识的。“原物的特征在于这样一个事实，即我们是不可能把它想象出来的。”(S7,125)拉康把原物构想为一个超越象征化的不可知的x, 而这个概念与康德的“自在之物”(hing-in-itself)有着明显的亲缘关系。
+
+‌‌‌‌　　(2)第二个语境是“享乐”(JOUISSANCE)。“原物”不但是语言的对象，而且也是欲望的对象。它就是那个必须被不断重新找回来的丧失的对象，即那个史前的、无法遗忘的大他者（S7,53)一换句话说，即母亲这一遭到禁止的乱伦欲望的对象（S7,67)。快乐原则是维持着主体与原物之间的某种距离的法则（S7,58), 它使主体围绕着原物循环却永远无法得到它。因而，原物便是作为主体的“至善”(Sovereign Good)而被呈现给他的，但是倘若主体违反了快乐原则并且获得了这个“善”，那么它就会被体验为“痛苦/恶”（拉康就法文的“al”一词玩了一个文字游戏，该词同时兼有“痛苦”与“恶”的意思，见：S7,179), 因为主体“无法忍受‘原物'所可能给他带来的那一极端的善”。故而，幸运的是，原物往往都是难以企及的 (S7,159).
+
+‌‌‌‌　　在1959一1960年度的研讨班之后，“原物”这一术语便几乎从拉康的著作当中完全消失了。然而，与之相联系的这些思想，提供了拉康从1963年开始提出的“对象小a”(objet petit a)这一全新概念的基本特征①。例如，对象小a是被冲动所环绕的 (S11,168), 并且被看作欲望的原因，正如“原物”被看作“最根本的人类激情的原因”(S7,97)。同样，原物并非想象的对象，而是根植于实在的辖域 (S7,112), 但也是“在实在界中遭受能指折磨的东西”（S7,125), 这一事实也预期了拉康从1963年开始日益把对象小a定位于实在界辖域的思想转变。
+
+
+‌‌‌‌　　(chose) Lacan's discussion of 'the Thing'constitutes one of the central themes in theseminar of 1959-60, where he uses the French term la chose interchangeably with theGerman term das Ding. There are two main contexts in which this term operates.
+1. The contextof Freud's distinction between 'word-presentations (Wortvorstellungen) and 'thing-presentations' (Sachvorstellungen). This distinction isprominent in Freud's metapsychological writings, in which he argues that the two typesof presentation are bound together in the preconscious-conscious system, whereas in theunconscious system only thing-presentations are found (Freud, 1915e). This seemed tosome of Lacan's contemporaries to offer an objection to Lacan's theories about thelinguistic nature of the unconscious. Lacan counters such objections by pointing out thatthere are two words in German for 'thing': das Ding and die Sache (see S7,62-3,44-5). It is the latter term which Freud usually employs to refer to the thing-presentations in theunconscious, and Lacan argues that although on one level Sachvorstellungen and Wortvorstellungen are opposed, on the symbolic level 'they go together'. Thus die Sacheis the representation of a thing in the symbolic order, as opposed to das Ding, which isthe thing in its 'dumb reality' (S7,55), the thing in the real, which is 'the beyond-of-the-signified' (S7,54). The thing-presentations found in the unconscious are thus stilllinguistic phenomena, as opposed to das Ding, which is entirely outside language, andoutside the unconscious.'The Thing is characterised by the fact that it is impossible forus to imagine it' (S7,125). Lacan's concept of the Thing as an unknowable x, beyondsymbolisation, has clear affinities with the Kantian 'thing-in-itself.
+2. The context of JOUISSANCE. As well as the object of language, das Ding is theobject of desire. It is the lost object which must be continually refound, it is theprehistoric, unforgettable Other (S7,53)-in other words, the forbidden object ofincestuous desire, the mother (S7,67). The pleasure principle is the law which maintainsthe subject at a certain distance from the Thing (S7,58,63), making the subject circleround it without ever attaining it (S7,95). The Thing is thus presented to the subject ashis Sovereign Good, but if the subject transgresses the pleasure principle and attains this Good, it is experienced as suffering/evil (Lacan plays on the French term mal, which canmean both suffering and evil, see S7,179), because the subject 'cannot stand the extremegood that das Ding may bring to him' (S7,73). It is fortunate, then, that the Thing isusually inaccessible (S7,159).
+
+‌‌‌‌　　After the seminar of 1959-60,the term das Ding disappears almost entirely from Lacan's work.However,the ideas associated with it provide the essential features of thenew developments in the concept of the objet petit a as Lacan develops it from 1963onwards.For example the objet petit a is circled by the drive (S11,168),and is seen asthe cause of desire just as das Ding is seen as 'the cause of the most fundamental humanpassion'(S7,97).Also,the fact that the Thing is not the imaginary object but firmly inthe register of the real (S7,112),and yet is 'that which in the real suffers from thesignifier'(S7,125),anticipates the transition in Lacan's thought towards locating objetpetit a increasingly in the register of the real from 1963 on.
+
